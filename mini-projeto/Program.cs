@@ -10,6 +10,7 @@ namespace mini_projeto
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ola mundo!");
         }
     }
 }
